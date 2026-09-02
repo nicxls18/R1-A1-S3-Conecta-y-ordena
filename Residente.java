@@ -11,5 +11,6 @@ public class Residente extends Empleado{
     }
 
 
+
     
 }
