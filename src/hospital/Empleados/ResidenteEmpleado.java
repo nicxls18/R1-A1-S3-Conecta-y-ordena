@@ -1,4 +1,4 @@
-package Empleados;
+package hospital.Empleados;
 
 public class ResidenteEmpleado extends Empleado implements Residente {
 

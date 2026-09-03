@@ -1,4 +1,4 @@
-package Vehiculos;
+package MotorVehiculos.Vehiculos;
 public abstract class Vehiculo {
 
     protected String nombre;

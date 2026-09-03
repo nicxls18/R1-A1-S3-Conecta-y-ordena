@@ -1,10 +1,10 @@
-package Nomina;
-import Empleados.Administrativo;
-import Empleados.Empleado;
-import Empleados.Enfermero;
-import Empleados.Medico;
-import Empleados.MedicoResidenteInvestigador;
-import Empleados.ResidenteEmpleado;
+package hospital.Empleados.Nomina;
+import hospital.Empleados.Administrativo;
+import hospital.Empleados.Empleado;
+import hospital.Empleados.Enfermero;
+import hospital.Empleados.Medico;
+import hospital.Empleados.MedicoResidenteInvestigador;
+import hospital.Empleados.ResidenteEmpleado;
 
 public class nomina{
     public static void main(String[] args) throws Exception {

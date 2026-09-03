@@ -1,4 +1,4 @@
-package Vehiculos;
+package MotorVehiculos.Vehiculos;
    private String medio;
 
     public VehiculoAnfibio(String nombre, double peso, double potencia) {

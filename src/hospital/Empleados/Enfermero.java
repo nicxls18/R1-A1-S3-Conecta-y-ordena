@@ -1,4 +1,4 @@
-package Empleados;
+package hospital.Empleados;
 
 public class Enfermero extends Empleado{
     private boolean UCI;

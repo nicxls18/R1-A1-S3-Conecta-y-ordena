@@ -1,9 +1,9 @@
-package consecionario;
-import Vehiculos.VehiculoAcuatico;
-import Vehiculos.VehiculoAereo;
-import Vehiculos.VehiculoAereoVTOL;
-import Vehiculos.VehiculoAnfibio;
-import Vehiculos.VehiculoTerrestre;
+package MotorVehiculos.Vehiculos.consecionario;
+import MotorVehiculos.Vehiculos.VehiculoAcuatico;
+import MotorVehiculos.Vehiculos.VehiculoAereo;
+import MotorVehiculos.Vehiculos.VehiculoAereoVTOL;
+import MotorVehiculos.Vehiculos.VehiculoAnfibio;
+import MotorVehiculos.Vehiculos.VehiculoTerrestre;
 
 public class consecionario {
     public static void main(String[] args) throws Exception {

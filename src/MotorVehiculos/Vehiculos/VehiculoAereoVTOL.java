@@ -1,4 +1,4 @@
-package Vehiculos;
+package MotorVehiculos.Vehiculos;
 
 public class VehiculoAereoVTOL extends VehiculoAereo {
 

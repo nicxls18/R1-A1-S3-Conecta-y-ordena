@@ -1,4 +1,4 @@
-package Empleados;
+package hospital.Empleados;
 
 public abstract class Empleado{
     protected String nombre;

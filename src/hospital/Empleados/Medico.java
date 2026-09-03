@@ -1,4 +1,4 @@
-package Empleados;
+package hospital.Empleados;
 
 public class Medico extends Empleado {
     protected String especialidad;
